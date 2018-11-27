@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# KIRSTIE O'CONNELL
+### I am new to GitHub
+#### This is practice.
